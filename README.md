@@ -1,8 +1,8 @@
-# Pizza Hunt
+# Note Taker
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## This is a web application for a user to write and save notes so they can organize thier taskes that need to be completed. The app is located on Heroku at [https://pizza-hunt-gdw.herokuapp.com/](https://pizza-hunt-gdw.herokuapp.com/).
+## This is a web application for a user to view pizza recipies that others have posted, they can write and save thier own pizza recipies and comment on others. The app is located on Heroku at [https://pizza-hunt-gdw.herokuapp.com/](https://pizza-hunt-gdw.herokuapp.com/).
 
 ## Table of Contents:
 
@@ -31,13 +31,13 @@ Use the live app on Heroku: [https://pizza-hunt-gdw.herokuapp.com/](https://pizz
 
 ## Screenshots
 
-|        <b>Image running on a computer</b>         |
-| :-----------------------------------------------: |
-| ![space-1.jpg](./assets/images/ScreenshotWeb.jpg) |
+|        <b>Image running on a computer</b>        |
+| :----------------------------------------------: |
+| ![space-1.jpg](./assets/images/pizzahuntweb.jpg) |
 
-|       <b>Image running on a mobile device</b>        |
-| :--------------------------------------------------: |
-| ![space-2.jpg](./assets/images/Screenshotmobile.jpg) |
+|       <b>Image running on a mobile device</b>       |
+| :-------------------------------------------------: |
+| ![space-2.jpg](./assets/images/pizzahuntmobile.jpg) |
 
 ## License
 
