@@ -5,6 +5,5 @@ const commentRoutes = require("./comment-routes");
 // add prefix of `/pizzas` to routes created in `pizza-routes.js`
 router.use("/pizzas", pizzaRoutes);
 router.use("/comments", commentRoutes);
-router.use("/pizzas", pizzaRoutes);
 
 module.exports = router;
