@@ -41,7 +41,7 @@ Use the live app on Heroku: [https://pizza-hunt-gdw.herokuapp.com/](https://pizz
 
 ## License
 
-&copy; 2022 by Gary Williams (Trademark GarywareLLC).
+&copy; 2023 by Gary Williams (Trademark GarywareLLC).
 This project is licensed under the MIT license.
 https://opensource.org/licenses/MIT
 
